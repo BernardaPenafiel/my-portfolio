@@ -1,5 +1,5 @@
 # my-portfolio
-This is my portfolio made in HTML
+This is my portfolio
 
 ## Autor -
 **Bernarda Penafiel** 
