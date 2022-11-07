@@ -11,7 +11,7 @@ Kushki:
 * Conciliación transaccional Transbank y Billpocket
 * Creación del módulo de Reembolsos México (Consola Interna)
 * Automatización de reportería de Claro Ecuador
-* 
+
 Banco del Austro:
 * Migración del Core bancario: módulo de cajas, servicio al cliente, inversiones, contable, banca virtual, ATM.
 
@@ -21,6 +21,7 @@ Cooperativa Jep:
 * Nuevos servicios de depósito efectivo y cheque en ATM
 * Mejoras al sistema de roles y usuarios internos.
 * Sistema interno para el análisis y calificación de créditos
+
 Tarpuq:
 * PCB para televisores TCL, Indurama, Prima
 * PCB para cargadores alcatel
