@@ -11,8 +11,10 @@ Kushki:
 * Conciliación transaccional Transbank y Billpocket
 * Creación del módulo de Reembolsos México (Consola Interna)
 * Automatización de reportería de Claro Ecuador
+* 
 Banco del Austro:
 * Migración del Core bancario: módulo de cajas, servicio al cliente, inversiones, contable, banca virtual, ATM.
+
 Cooperativa Jep:
 * Migración del módulo de ventanillas y servicio al cliente.
 * Migración de la Intranet
